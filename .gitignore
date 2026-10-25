@@ -1,0 +1,9 @@
+/build/*
+!/build/.gitkeep
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+.DS_Store
+*.o
+*.exe
